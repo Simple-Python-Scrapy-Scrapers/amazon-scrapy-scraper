@@ -38,19 +38,17 @@
 amazon-scrapy-scraper/
 ├── amazon_scraper/
 │   ├── spiders/
-│   │   ├── amazon_search.py      # Search results spider (72 lines)
-│   │   └── amazon_product.py     # Product details spider (78 lines)
-│   ├── middlewares.py            # Standard Scrapy middlewares
-│   ├── items.py                  # Data structure definitions
-│   ├── pipelines.py              # Simple data processing
-│   ├── settings.py               # Clean ScrapeOps configuration
-│   └── data/                     # CSV output directory
-├── scrapy.cfg                    # Project configuration
-├── requirements.txt              # Dependencies
-├── .venv/                        # Virtual environment
-├── .gitignore                    # Git ignore rules
-├── LICENSE                       # License file
-└── README.md                     # This file
+│   │   ├── amazon_search.py      
+│   │   └── amazon_product.py
+│   ├── middlewares.py           
+│   ├── items.py                 
+│   ├── pipelines.py                       
+│   └── settings.py                     
+├── scrapy.cfg                    
+├── requirements.txt              
+├── .gitignore                    
+├── LICENSE                      
+└── README.md                   
 ```
 
 ---
