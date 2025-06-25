@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scrapy output
+products.json
+products.csv
+products.xml
+products.jl
+*.json
+*.csv
+*.xml
+*.jl
+
+# Scrapy project
+amazon_scraper/__pycache__/
+amazon_scraper/spiders/__pycache__/
+
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local 
