@@ -56,7 +56,7 @@ amazon-scrapy-scraper/
 ## Quickstart
 
 ```bash
-git clone https://github.com/you/amazon-scrapy-scraper.git
+git clone https://github.com/Simple-Python-Scrapy-Scrapers/amazon-scrapy-scraper.git
 cd amazon-scrapy-scraper
 
 # Create and activate virtual environment
